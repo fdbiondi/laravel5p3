@@ -1,0 +1,20 @@
+{
+  "module": "Nombre modulo",
+  "principal_function": "funcion principal",
+  "function_details": [
+    "enumerar los detalles",
+    "no tanto ni tan poco"
+  ],
+  "last_update": "yyyy-MM-dd",
+  "authors": "nombre author",
+  "considerations": [
+    {
+      "title" : "titulo",
+      "detail": "detalle"}
+  ],
+  "collaborators":  [{
+    "name": "nombre",
+    "date": "fecha"
+  }],
+  "keywords": ["palabras"]
+}
